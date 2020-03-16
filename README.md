@@ -1,36 +1,28 @@
-# Build Your First Ionic Vue App
-Your First Ionic App: Vue - trying to mimic the [React JS documentation](https://ionicframework.com/docs/react/your-first-app) from Ionic Website but with Vue
-
-<p>
-   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<img src="https://thepracticaldev.s3.amazonaws.com/i/1bxbk27563drpnc4ruum.png"  height="400">
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<img src="https://thepracticaldev.s3.amazonaws.com/i/1f2d5fhxgy03apizcing.png"  height="400">
-  </p>
+# Build Your Vue + Ionic 5 App.
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+npm run build
 ```
 
 ### Run your tests
 ```
-yarn run test
+npm run test
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+npm run lint
 ```
 
 ### Customize configuration
